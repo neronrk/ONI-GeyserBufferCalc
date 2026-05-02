@@ -1,0 +1,3 @@
+title: "Automatic Geyser Calculation"
+description: "Добавляет расчётные значения в панель информации о гейзере, включая средние скорости потока, требования к буферу и тепловую мощность."
+staticID: "AutomaticGeyserCalculation"
