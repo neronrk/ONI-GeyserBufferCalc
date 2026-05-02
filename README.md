@@ -47,7 +47,7 @@
 
 ## 🤝 Благодарности
 
-- Оригинальный мод: [Automatic Geyser Calculation]([https://github.com/automatonic/ONI-AutomaticGeyserCalculation](https://github.com/yobbobandana/oni_mods/tree/master/automatic_geyser_calculation)
+- Оригинальный мод: [Automatic Geyser Calculation](https://github.com/yobbobandana/oni_mods/tree/master/automatic_geyser_calculation)
 - Русификация и доработка: @neronrk
 
 ## 📜 Лицензия
