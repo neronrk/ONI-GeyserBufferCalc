@@ -16,11 +16,6 @@
 
 Также мод показывает тепловую мощность и потенциал охлаждения (если температура гейзера отличается от нормы).
 
-<img width="249" height="318" alt="Снимок экрана 2026-05-02 211913" src="https://github.com/user-attachments/assets/5154b12c-3ca0-4a05-8aec-d416ed4eaadd" />
-<img width="252" height="316" alt="Снимок экрана 2026-05-02 211830" src="https://github.com/user-attachments/assets/5917fe60-0ad5-463f-9d2d-6e8362a27971" />
-<img width="251" height="264" alt="Снимок экрана 2026-05-02 211807" src="https://github.com/user-attachments/assets/960ae15b-e4bd-42fe-9055-a3be50a95f8c" />
-
-
 ## 📥 Установка
 
 ## 🛠️ Сборка из исходников
